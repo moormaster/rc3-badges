@@ -324,6 +324,15 @@
     "image": "badge-157.png"
   },
   {
+    "id": 158,
+    "title": "dezentrale",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "dezentrale",
+    "image": "badge-158.png"
+  },
+  {
     "id": 192,
     "title": "I Blew the Whistle! Courage is Contagious!",
     "mode": "achievement",
@@ -526,7 +535,7 @@
     "title": "DSR - GAFAM",
     "mode": "achievement",
     "accepted": true,
-    "visibility": "private",
+    "visibility": "public",
     "assembly": "cyber4EDU",
     "image": "badge-306.png"
   },
@@ -855,6 +864,15 @@
     "image": "badge-477.png"
   },
   {
+    "id": 479,
+    "title": "A vibrant hommage to courageous journalism...",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Whistleblow Village",
+    "image": "badge-479.png"
+  },
+  {
     "id": 478,
     "title": "Sendezentrum Lagerfeuer",
     "mode": "achievement",
@@ -934,6 +952,15 @@
     "visibility": "public",
     "assembly": "Bits & B\u00e4ume",
     "image": "badge-546.png"
+  },
+  {
+    "id": 611,
+    "title": "visit EBK after day4",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Eigenbaukombinat Halle e.V.",
+    "image": "badge-611.png"
   },
   {
     "id": 612,
