@@ -1,0 +1,956 @@
+[
+  {
+    "id": 8,
+    "title": "RFT Colormat 4506",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Chaoszone",
+    "image": "badge-8.png"
+  },
+  {
+    "id": 71,
+    "title": "OSM Stickers",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "OpenStreetMap",
+    "image": "badge-71.png"
+  },
+  {
+    "id": 23,
+    "title": "Visited FIXME Hackerspace",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "FIXME Hackerspace",
+    "image": "badge-23.png"
+  },
+  {
+    "id": 24,
+    "title": "Visited \u03bcBerghain",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "FIXME Hackerspace",
+    "image": "badge-24.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Visited the Construct",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "FIXME Hackerspace",
+    "image": "badge-25.png"
+  },
+  {
+    "id": 59,
+    "title": "Linux",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Haecksen",
+    "image": "badge-59.png"
+  },
+  {
+    "id": 61,
+    "title": "UN-Hack-Bar e.V. besucht",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "UN-Hack-Bar e.V.",
+    "image": "badge-61.png"
+  },
+  {
+    "id": 56,
+    "title": "tunneled haecksen library",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Haecksen",
+    "image": "badge-56.png"
+  },
+  {
+    "id": 87,
+    "title": "to the Vault7... brrr...",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Whistleblow Village",
+    "image": "badge-87.png"
+  },
+  {
+    "id": 89,
+    "title": "I went to Guantanamarsh, and all I got was this lousy badge..",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Whistleblow Village",
+    "image": "badge-89.png"
+  },
+  {
+    "id": 88,
+    "title": "Do you want to develop my app?",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Whistleblow Village",
+    "image": "badge-88.png"
+  },
+  {
+    "id": 98,
+    "title": "Marveled at the sweet face of Lady Justice",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Whistleblow Village",
+    "image": "badge-98.png"
+  },
+  {
+    "id": 128,
+    "title": "Engineer",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Haecksen",
+    "image": "badge-128.png"
+  },
+  {
+    "id": 106,
+    "title": "Visited CERT!",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "CERT",
+    "image": "badge-106.png"
+  },
+  {
+    "id": 86,
+    "title": "This one WAS for you!",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Whistleblow Village",
+    "image": "badge-86.png"
+  },
+  {
+    "id": 83,
+    "title": "Anything to Say?",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Whistleblow Village",
+    "image": "badge-83.png"
+  },
+  {
+    "id": 84,
+    "title": "Joined the Campfire Chat!",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Whistleblow Village",
+    "image": "badge-84.png"
+  },
+  {
+    "id": 133,
+    "title": "Huebsch hier",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Haecksen",
+    "image": "badge-133.png"
+  },
+  {
+    "id": 107,
+    "title": "DSR - Datenspuren",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-107.png"
+  },
+  {
+    "id": 113,
+    "title": "I did visit the c-base",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "c-base",
+    "image": "badge-113.png"
+  },
+  {
+    "id": 114,
+    "title": "Drop the BASS",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "c-base",
+    "image": "badge-114.png"
+  },
+  {
+    "id": 102,
+    "title": "memorial_heart",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Haecksen",
+    "image": "badge-102.png"
+  },
+  {
+    "id": 135,
+    "title": "Drop it like it's hot",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Haecksen",
+    "image": "badge-135.png"
+  },
+  {
+    "id": 125,
+    "title": "Creature",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Haecksen",
+    "image": "badge-125.png"
+  },
+  {
+    "id": 131,
+    "title": "Home",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Haecksen",
+    "image": "badge-131.png"
+  },
+  {
+    "id": 136,
+    "title": "Pommes",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Haecksen",
+    "image": "badge-136.png"
+  },
+  {
+    "id": 126,
+    "title": "So delight",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Haecksen",
+    "image": "badge-126.png"
+  },
+  {
+    "id": 124,
+    "title": "No Backup",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Haecksen",
+    "image": "badge-124.png"
+  },
+  {
+    "id": 129,
+    "title": "F12",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Haecksen",
+    "image": "badge-129.png"
+  },
+  {
+    "id": 141,
+    "title": "Infected",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "CERT",
+    "image": "badge-141.png"
+  },
+  {
+    "id": 142,
+    "title": "Got Shot",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "CERT",
+    "image": "badge-142.png"
+  },
+  {
+    "id": 143,
+    "title": "Picked a Bone",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "CERT",
+    "image": "badge-143.png"
+  },
+  {
+    "id": 148,
+    "title": "Booster",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "CERT",
+    "image": "badge-148.png"
+  },
+  {
+    "id": 150,
+    "title": "I did follow the White Rabbit",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "c-base",
+    "image": "badge-150.png"
+  },
+  {
+    "id": 154,
+    "title": "operated!",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "CERT",
+    "image": "badge-154.png"
+  },
+  {
+    "id": 157,
+    "title": "Tested!",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "CERT",
+    "image": "badge-157.png"
+  },
+  {
+    "id": 192,
+    "title": "I Blew the Whistle! Courage is Contagious!",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Whistleblow Village",
+    "image": "badge-192.png"
+  },
+  {
+    "id": 185,
+    "title": "path of cyber",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "CERT",
+    "image": "badge-185.png"
+  },
+  {
+    "id": 205,
+    "title": "visit Chaoszone underground",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Chaoszone",
+    "image": "badge-205.png"
+  },
+  {
+    "id": 206,
+    "title": "Roter Turm Chemnitz",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Chaostreff Chemnitz",
+    "image": "badge-206.png"
+  },
+  {
+    "id": 201,
+    "title": "find the hidden backdoor",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "backdoor collective",
+    "image": "badge-201.png"
+  },
+  {
+    "id": 193,
+    "title": "Nosey Navigator",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Computertruhe e. V.",
+    "image": "badge-193.png"
+  },
+  {
+    "id": 217,
+    "title": "DSR - Schult\u00fcte",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-217.png"
+  },
+  {
+    "id": 218,
+    "title": "DSR - Passwort",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-218.png"
+  },
+  {
+    "id": 254,
+    "title": "Kicker-Champion",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Alles.Anz\u00fcnden.Jetzt",
+    "image": "badge-254.png"
+  },
+  {
+    "id": 227,
+    "title": "aae",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Franconian.net",
+    "image": "badge-227.png"
+  },
+  {
+    "id": 246,
+    "title": "c3Teleshop-Watcher",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Alles.Anz\u00fcnden.Jetzt",
+    "image": "badge-246.png"
+  },
+  {
+    "id": 250,
+    "title": "Schachprofi",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Alles.Anz\u00fcnden.Jetzt",
+    "image": "badge-250.png"
+  },
+  {
+    "id": 264,
+    "title": "Rust Visitor",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Rust Lang Assembly",
+    "image": "badge-264.png"
+  },
+  {
+    "id": 258,
+    "title": "franconian_ctf_4",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Franconian.net",
+    "image": "badge-258.png"
+  },
+  {
+    "id": 216,
+    "title": "Heaven map visitor",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Himmel / Heaven",
+    "image": "badge-216.png"
+  },
+  {
+    "id": 266,
+    "title": "I went to Whistleblow Village",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Whistleblow Village",
+    "image": "badge-266.png"
+  },
+  {
+    "id": 286,
+    "title": "#SchenklRadio goes #rC3",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "SchenklRadio",
+    "image": "badge-286.png"
+  },
+  {
+    "id": 267,
+    "title": "Simuliertes Engel-Shirt",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "\u03bcc\u00b3",
+    "image": "badge-267.png"
+  },
+  {
+    "id": 289,
+    "title": "FOSS-AG talk",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "FOSS-AG der TU Dortmund",
+    "image": "badge-289.png"
+  },
+  {
+    "id": 292,
+    "title": "EscapeAssembly_imagePuzzle",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Nodeausgang",
+    "image": "badge-292.png"
+  },
+  {
+    "id": 301,
+    "title": "Hat den BC Club Besucht",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "BC Club",
+    "image": "badge-301.png"
+  },
+  {
+    "id": 317,
+    "title": "PW_Badge",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "PrivacyWeek AT",
+    "image": "badge-317.png"
+  },
+  {
+    "id": 306,
+    "title": "DSR - GAFAM",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "private",
+    "assembly": "cyber4EDU",
+    "image": "badge-306.png"
+  },
+  {
+    "id": 316,
+    "title": "PW_Sternenk\u00fcche_Spontan_Tag4",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "PrivacyWeek AT",
+    "image": "badge-316.png"
+  },
+  {
+    "id": 309,
+    "title": "entered the bEAST and got to the top",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Chaoszone",
+    "image": "badge-309.png"
+  },
+  {
+    "id": 290,
+    "title": "entered the bEAST",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Chaoszone",
+    "image": "badge-290.png"
+  },
+  {
+    "id": 332,
+    "title": "Reggae kills",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "PortCARL",
+    "image": "badge-332.png"
+  },
+  {
+    "id": 326,
+    "title": "Irish Hackerspaces",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Irish Embassy",
+    "image": "badge-326.png"
+  },
+  {
+    "id": 335,
+    "title": "Hotel Ireland - once you enter you can never leave. Exit Broken",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Irish Embassy",
+    "image": "badge-335.png"
+  },
+  {
+    "id": 340,
+    "title": "Visited flipdot e.V.",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "flipdot e.V.",
+    "image": "badge-340.png"
+  },
+  {
+    "id": 368,
+    "title": "Freifunk Backnang",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Alles.Anz\u00fcnden.Jetzt",
+    "image": "badge-368.png"
+  },
+  {
+    "id": 352,
+    "title": "Under Construction",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Alles.Anz\u00fcnden.Jetzt",
+    "image": "badge-352.png"
+  },
+  {
+    "id": 359,
+    "title": "Screen Sharing",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "PortCARL",
+    "image": "badge-359.png"
+  },
+  {
+    "id": 390,
+    "title": "Puzzle - Tile9",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-390.png"
+  },
+  {
+    "id": 391,
+    "title": "I scared the shit out of this agent!!",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Whistleblow Village",
+    "image": "badge-391.png"
+  },
+  {
+    "id": 376,
+    "title": "Puzzle - Tile7",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-376.png"
+  },
+  {
+    "id": 377,
+    "title": "Puzzle - Tile2",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-377.png"
+  },
+  {
+    "id": 378,
+    "title": "Puzzle",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-378.png"
+  },
+  {
+    "id": 381,
+    "title": "Puzzle - Tile4",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-381.png"
+  },
+  {
+    "id": 388,
+    "title": "Remembering Alaa",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Whistleblow Village",
+    "image": "badge-388.png"
+  },
+  {
+    "id": 392,
+    "title": "Puzzle - Tile1",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-392.png"
+  },
+  {
+    "id": 429,
+    "title": "PW B\u00fccherwurm",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "PrivacyWeek AT",
+    "image": "badge-429.png"
+  },
+  {
+    "id": 400,
+    "title": "Engelsimulator",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Rust Lang Assembly",
+    "image": "badge-400.png"
+  },
+  {
+    "id": 411,
+    "title": "DSR - Sicherheit",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-411.png"
+  },
+  {
+    "id": 413,
+    "title": "DSR - DSGVO",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-413.png"
+  },
+  {
+    "id": 414,
+    "title": "DSR - Crypto",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-414.png"
+  },
+  {
+    "id": 415,
+    "title": "DSR - Mjam Mjam",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-415.png"
+  },
+  {
+    "id": 416,
+    "title": "DSR - WiFi",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-416.png"
+  },
+  {
+    "id": 418,
+    "title": "Puzzle - Tile6",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-418.png"
+  },
+  {
+    "id": 421,
+    "title": "Puzzle - Tile3",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-421.png"
+  },
+  {
+    "id": 422,
+    "title": "Puzzle - Tile5",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-422.png"
+  },
+  {
+    "id": 423,
+    "title": "Puzzle - Tile8",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-423.png"
+  },
+  {
+    "id": 448,
+    "title": "hackzogtum",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Franconian.net",
+    "image": "badge-448.png"
+  },
+  {
+    "id": 462,
+    "title": "Visited C3-Teleshop",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Chaostrawler",
+    "image": "badge-462.png"
+  },
+  {
+    "id": 379,
+    "title": "F-Droid Assembly Visitor Pass",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "F-Droid",
+    "image": "badge-379.png"
+  },
+  {
+    "id": 475,
+    "title": "DSR - IT-Sicherheitsdiplom",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-475.png"
+  },
+  {
+    "id": 474,
+    "title": "DSR - Courage",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-474.png"
+  },
+  {
+    "id": 476,
+    "title": "DSR - ROT13",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-476.png"
+  },
+  {
+    "id": 477,
+    "title": "DSR - Winner",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "cyber4EDU",
+    "image": "badge-477.png"
+  },
+  {
+    "id": 478,
+    "title": "Sendezentrum Lagerfeuer",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Sendezentrum",
+    "image": "badge-478.png"
+  },
+  {
+    "id": 508,
+    "title": "I have a black belt in Jiu Jitsi",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "PortCARL",
+    "image": "badge-508.png"
+  },
+  {
+    "id": 553,
+    "title": "Drugbirds are real",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Lounge",
+    "image": "badge-553.png"
+  },
+  {
+    "id": 547,
+    "title": "B\u00e4ume verdroschen",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Bits & B\u00e4ume",
+    "image": "badge-547.png"
+  },
+  {
+    "id": 549,
+    "title": "Beste\u00b7r im Bots verdreschen",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Bits & B\u00e4ume",
+    "image": "badge-549.png"
+  },
+  {
+    "id": 539,
+    "title": "Soil Club",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Haecksen",
+    "image": "badge-539.png"
+  },
+  {
+    "id": 554,
+    "title": "End|Zeit",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "lobby",
+    "image": "badge-554.png"
+  },
+  {
+    "id": 542,
+    "title": "First mission with the \"Good Guys(tm)\"!",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Whistleblow Village",
+    "image": "badge-542.png"
+  },
+  {
+    "id": 546,
+    "title": "Bots verdroschen",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Bits & B\u00e4ume",
+    "image": "badge-546.png"
+  },
+  {
+    "id": 612,
+    "title": "Don't Forget Ola Bini",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Whistleblow Village",
+    "image": "badge-612.png"
+  },
+  {
+    "id": 613,
+    "title": "Zugticket FREE",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Chaotisch Inkorrekt!",
+    "image": "badge-613.png"
+  }
+]
