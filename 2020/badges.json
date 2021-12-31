@@ -1,0 +1,227 @@
+[
+  {
+    "id": 61,
+    "title": "Operated!",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "CERT",
+    "image": "badge-61.png"
+  },
+  {
+    "id": 432,
+    "title": "RestroomParty",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Lounge",
+    "image": "badge-432.png"
+  },
+  {
+    "id": 91,
+    "title": "rc3Haecksen",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "haecksen",
+    "image": "badge-91.png"
+  },
+  {
+    "id": 92,
+    "title": "Haeckse",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "haecksen",
+    "image": "badge-92.png"
+  },
+  {
+    "id": 122,
+    "title": "Visited the Adele Goldberg shrine",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "lebkuch.is",
+    "image": "badge-122.png"
+  },
+  {
+    "id": 185,
+    "title": "Talk Nyan To Me",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "haecksen",
+    "image": "badge-185.png"
+  },
+  {
+    "id": 188,
+    "title": "You Are Such A Good Swimmer",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "haecksen",
+    "image": "badge-188.png"
+  },
+  {
+    "id": 182,
+    "title": "Swabian Embassy",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Swabian Embassy",
+    "image": "badge-182.png"
+  },
+  {
+    "id": 270,
+    "title": "Digitalcourage",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Digitalcourage",
+    "image": "badge-270.png"
+  },
+  {
+    "id": 268,
+    "title": "Heaven Visitor",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Heaven",
+    "image": "badge-268.png"
+  },
+  {
+    "id": 299,
+    "title": "Fieldphonemuseum Visitor",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Chaosvermittlung",
+    "image": "badge-299.png"
+  },
+  {
+    "id": 316,
+    "title": "Survived Lebkuch.is Maze",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "lebkuch.is",
+    "image": "badge-316.png"
+  },
+  {
+    "id": 415,
+    "title": "Entered the cube",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "CERT",
+    "image": "badge-415.png"
+  },
+  {
+    "id": 335,
+    "title": "OnWebcam",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "freeside",
+    "image": "badge-335.jpg"
+  },
+  {
+    "id": 354,
+    "title": "Infofant knows best",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Infodesk",
+    "image": "badge-354.png"
+  },
+  {
+    "id": 364,
+    "title": "Haecksen Memorials Collector Badge",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "haecksen",
+    "image": "badge-364.png"
+  },
+  {
+    "id": 118,
+    "title": "Just say no, the virus can't enter your body without your consent.",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Cuddlebutt",
+    "image": "badge-118.jpg"
+  },
+  {
+    "id": 483,
+    "title": "ChaosZone Visitor",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "ChaosZone",
+    "image": "badge-483.png"
+  },
+  {
+    "id": 485,
+    "title": "siehabenmichinsgesichtgefilmt",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "ChaosZone",
+    "image": "badge-485.png"
+  },
+  {
+    "id": 486,
+    "title": "I'm inside ChaosZone TV",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "ChaosZone",
+    "image": "badge-486.png"
+  },
+  {
+    "id": 489,
+    "title": "tsch\u00fcss",
+    "mode": "sticker",
+    "accepted": false,
+    "visibility": "private",
+    "assembly": "freeside",
+    "image": "badge-489.png"
+  },
+  {
+    "id": 492,
+    "title": "(Chaos-)Westfernsehen",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "ChaosZone",
+    "image": "badge-492.png"
+  },
+  {
+    "id": 499,
+    "title": "d3moteilnahme",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "ChaosZone",
+    "image": "badge-499.png"
+  },
+  {
+    "id": 494,
+    "title": "aLLcOLORSaREbEAUTIFUL",
+    "mode": "sticker",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "ChaosZone",
+    "image": "badge-494.png"
+  },
+  {
+    "id": 521,
+    "title": "Weltuntergang - I survived!",
+    "mode": "achievement",
+    "accepted": true,
+    "visibility": "public",
+    "assembly": "Heaven",
+    "image": "badge-521.jpg"
+  }
+]
