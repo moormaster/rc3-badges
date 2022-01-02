@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="de" class="js">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<link rel="stylesheet" href="./static/rc3.css">
+		<title>Badges</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<script>
+			document.addEventListener('DOMContentLoaded', (e) => {
+				document.querySelector('html').classList.remove('no-js');
+				document.querySelector('html').classList.add('js');
+			});
+		</script>
+	</head>
+	<body>
+		<div class="container-fluid p-0 d-flex flex-column min-vh-100">
+			<main class="container" id="content">
+					
+			<h2>Stickers</h2>
+
+			<div class="row border my-5 p-6 container-fluid content-row">
+				<div class="row">
+
+					{% for badge in badges %}
+					{% if badge.mode == "sticker" %}
+					<div class="col-3 p-2" style="max-width: 256px!important; width: 256px!important;"> 
+						<div class="card box-shadow w-100">
+							<div>
+								<img class="card-img-top" alt="Thumbnail Badge {{ badge.title }}" style=" width: 254px; height: 254px; display: block;" src="{{ badge.image }}" data-holder-rendered="true">
+							</div>
+							<div class="card-body">
+								<p class="card-text text-center"></p>
+								<h4 class=" m-2">{{ badge.title }}</h4>
+								<h6 class="m-2 mb-0"><small class="">Sichtbarkeit:<br></small> {{ badge.visibility }}</h6>
+								<p></p>
+							</div>
+						</div>
+					</div>
+					{% endif %}
+					{% endfor %}
+					
+				</div>
+			</div>
+
+			<hr class="my-8">
+
+			<h2>Achievements</h2>
+
+			<div class="row border my-5 p-6 container-fluid content-row">
+				<div class="row">
+
+					{% for badge in badges %}
+					{% if badge.mode == "achievement" %}
+					<div class="col-3 p-2" style="max-width: 256px!important; width: 256px!important;"> 
+						<div class="card box-shadow w-100">
+							<div>
+								<img class="card-img-top" alt="Thumbnail Badge {{ badge.title }}" style=" width: 254px; height: 254px; display: block;" src="{{ badge.image }}" data-holder-rendered="true">
+							</div>
+							<div class="card-body">
+								<p class="card-text text-center"></p>
+								<h4 class=" m-2">{{ badge.title }}</h4>
+								<h6 class="m-2 mb-0"><small class="">Sichtbarkeit:<br></small> {{ badge.visibility }}</h6>
+								<p></p>
+							</div>
+						</div>
+					</div>
+					{% endif %}
+					{% endfor %}
+					
+				</div>
+			</div>
+
+		</main>
+	</div>
+</body>
+</html>
