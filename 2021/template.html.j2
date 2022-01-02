@@ -12,10 +12,11 @@
 	</header>
 	
 	<main>
-		<h1>Badges</h1>
+		<h1>Stickers</h1>
 		
 		<ul class="box-grid">
 			{% for badge in badges %}
+			{% if badge.mode == "sticker" %}
 			<li class="box">
 				<h2 class="box-header">{{ badge.title }}</h2>
 				<div class="box-content">
@@ -23,8 +24,26 @@
 					<p><img src="{{badge.image}}" style="width: 100%"></p>
 				</div>
 			</li>
+			{% endif %}
 			{% endfor %}
 		</ul>
+
+		<h1>Achievements</h1>
+		
+		<ul class="box-grid">
+			{% for badge in badges %}
+			{% if badge.mode == "achievement" %}
+			<li class="box">
+				<h2 class="box-header">{{ badge.title }}</h2>
+				<div class="box-content">
+					<p>{{ badge.mode }}</p>
+					<p><img src="{{badge.image}}" style="width: 100%"></p>
+				</div>
+			</li>
+			{% endif %}
+			{% endfor %}
+		</ul>
+
 	</main>
 </body>
 </html>
