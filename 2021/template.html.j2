@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html style="--scrollTop: 0;" lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<title>rC3 2021 Badges</title>
+	
+	<link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+	<header>
+	</header>
+	
+	<main>
+		<h1>Badges</h1>
+		
+		<ul class="box-grid">
+			{% for badge in badges %}
+			<li class="box">
+				<h2 class="box-header">{{ badge.title }}</h2>
+				<div class="box-content">
+					<p>{{ badge.mode }}</p>
+					<p><img src="{{badge.image}}" style="width: 100%"></p>
+				</div>
+			</li>
+			{% endfor %}
+		</ul>
+	</main>
+</body>
+</html>
